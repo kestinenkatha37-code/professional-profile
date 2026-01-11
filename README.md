@@ -15,6 +15,3 @@ I am a professional and customer-focused Receptionist with experience in front-d
 - Customer Service & Communication
 - Microsoft Office
 
-### Documents
-- CV
-- Cover Letter
